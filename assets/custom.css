@@ -1,13 +1,25 @@
-.example5 .navbar-brand {
+.mynav .navbar-brand {
   display: flex;
   align-items: center;
 
 }
-.example5 .navbar-brand>img {
+.mynav .navbar-brand>img {
   padding: 7px 14px;
 
 }
 .item{
 	height: 316;
 	width: 629;
+}
+#car{
+	padding-top: 50px;
+	padding-right: 0px;
+}
+#text{
+	padding-top: 50px;
+	text-align: left;
+	padding-left: 0px;
+}
+#sub{
+	padding-top: 50px;
 }
