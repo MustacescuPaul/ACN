@@ -24,3 +24,16 @@
 	padding-top: 50px;
 	align-content: left;
 }
+body{
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+	font-style: italic;
+
+}
+img{
+	 display: block;
+    margin: 0 auto;	
+}
+h4{
+	color:black;
+}
