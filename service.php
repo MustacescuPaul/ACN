@@ -1,24 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
-      <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"> 
-
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-      <!-- Latest compiled and minified CSS -->
-	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-    	<!-- Optional theme -->
-    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-    	<!-- Latest compiled and minified JavaScript -->
-    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-      <meta charset="utf-8">
-	
-	    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-	    <link rel="stylesheet" href="assets/custom.css">
+      <?php include("assets/inc/header.php") ?>
+      <link href="assets/css/ekko-lightbox.css" rel="stylesheet">
+      <script src="assets/js/ekko-lightbox.js"></script>
   </head>
   <body>
   	<div class="container  ">
@@ -36,12 +21,12 @@
           </div>
           <div id="navbar5" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="index.html">Acasa</a></li>
-              <li><a href="service.html">Service</a></li>
-              <li><a href="mecanica.html">Mecanica</a></li>
-              <li><a href="#">Tractari</a></li>
-              <li><a href="#">Vopsitorie</a></li>
-              <li><a href="#">Contact</a></li>
+              <li class="nav-li"><a href="index.php">Acasa</a></li>
+              <li  class="nav-li active"><a href="service.php">Service</a></li>
+              <li class="nav-li"><a href="mecanica.php">Mecanica</a></li>
+              <li class="nav-li"><a href="#">Tractari</a></li>
+              <li class="nav-li"><a href="#">Vopsitorie</a></li>
+              <li class="nav-li"><a href="#">Contact</a></li>
             </ul>
           </div>
         </nav>
@@ -80,9 +65,20 @@
       <h4 style="font-size: 20px;font-weight: bolder;">Elemente de directie</h4> 
       Montaj/inlocuire caseta de directie cu sau fara servo, semicaseta de directie, pompa servodirectie.
       <h4 style="font-size: 20px;font-weight: bolder;">Mecanism de distributie</h4> 
-      Inlocuirea intregului mecanism de distributie sau numai a anumitor componente (curele, role intinzatoare, ghidaje).
+      Inlocuirea intregului mecanism de distributie sau numai a anumitor componente (curele, role intinzatoare, ghidaje).</br>
 
-
+      
+      <div class="row">
+            <a href="assets/images/1.jpg" class="col-sm-4">
+                <img src="assets/images/1.jpg" width="200" height="100" >
+            </a>
+             <a href="assets/images/2.jpg" class="col-sm-4">
+                <img src="assets/images/2.jpg" width="200" height="100" >
+            </a>
+             <a href="assets/images/3.jpg" class="col-sm-4">
+                <img src="assets/images/3.jpg" width="200" height="100" >
+            </a>
+        </div>
 
 
     </div>
