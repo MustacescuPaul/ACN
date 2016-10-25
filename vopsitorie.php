@@ -21,9 +21,9 @@
             <ul class="nav navbar-nav navbar-right">
               <li class="nav-li"><a href="index.php">Acasa</a></li>
               <li  class="nav-li"><a href="service.php">Service</a></li>
-              <li class="nav-li active"><a href="mecanica.php">Mecanica</a></li>
+              <li class="nav-li "><a href="mecanica.php">Mecanica</a></li>
               <li class="nav-li"><a href="tractari.php">Tractari</a></li>
-              <li class="nav-li"><a href="vopsitorie.php">Vopsitorie</a></li>
+              <li class="nav-li active"><a href="vopsitorie.php">Vopsitorie</a></li>
               <li class="nav-li"><a href="contact.php">Contact</a></li>
             </ul>
           </div>
@@ -31,19 +31,25 @@
       </div>
       <div class="row">
         <div class="col-sm-3">
-          <img src="assets/images/mec.jpg" width="300" height="200">
+          <img src="assets/images/222.jpg" width="300" height="200">
         </div>
         <div class="col-sm-7 col-sm-offset-1">
-        	 Autonix Select efectueaza o gama larga de reparatii mecanice intr-un atelier special amenajat, cu personal bine pregatit.
+          Atelierul de vopsitorie, beneficiaza de cabina de vopsit de ultima generatie, dar si de zone speciale de pregatire in vederea vopsirii dotate la cele mai inalte standarde.
 
-Avem in dotare o hala multifunctionala prevazuta cu elevatoare, scule si aparate speciale pentru diverse reparatii mecanice.
+Atelierul de vopsitorie
 
-Executam reparatii mecanice si electrice pentru toate tipurile si marcile de autoturisme produse in strainatate dar si pentru cele de productie autohtona.
+si tinichigerie au o capacitate mare de efectuare a reparatiilor. In plus, timpul de stationare in service este redus la maximum, devenind echivalent cu cel tehnologic de reparatie.
 
-Servicii de reparatii mecanice
 
-Dotarile tehnice si personalul service-ului nostru permit realizarea de interventii la sistemele de propulsie, de transmisie, de alimentare, de suspensie, de directie si de franare.
-		</div>
+
+Dotarile tehnice speciale ale atelierului
+
+de vopsitorie permit obtinerea unei calitati a lucrarii incomparabila cu a altor ateliere similare, respectandu-se totodata normele UE de protectie a mediului.
+
+Cabina de vopsit asigura coacerea uniforma a vopselei pe intreaga suprafata a autovehiculului, fapt garantat de distribuirea uniforma a aerului in interiorul cabinei. Toate zonele de lucru dispun de echipamente ce asigura o curatenie perfecta, iar standul de preparare a vopselelor, este computerizat, obtinandu-se astfel culoarea initiala a autoturismelor.
+
+Profesionalismul angajatilor dublat de calitatea echipamentului conduc la executarea lucrarilor de vopsitorie de cea mai buna calitate in cele mai bune conditii.
+          </div>
       </div>
 
 

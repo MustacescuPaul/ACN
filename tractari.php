@@ -21,8 +21,8 @@
             <ul class="nav navbar-nav navbar-right">
               <li class="nav-li"><a href="index.php">Acasa</a></li>
               <li  class="nav-li"><a href="service.php">Service</a></li>
-              <li class="nav-li active"><a href="mecanica.php">Mecanica</a></li>
-              <li class="nav-li"><a href="tractari.php">Tractari</a></li>
+              <li class="nav-li"><a href="mecanica.php">Mecanica</a></li>
+              <li class="nav-li active"><a href="tractari.php">Tractari</a></li>
               <li class="nav-li"><a href="vopsitorie.php">Vopsitorie</a></li>
               <li class="nav-li"><a href="contact.php">Contact</a></li>
             </ul>
@@ -31,19 +31,13 @@
       </div>
       <div class="row">
         <div class="col-sm-3">
-          <img src="assets/images/mec.jpg" width="300" height="200">
+          <img src="assets/images/111.jpg" width="300" height="200">
         </div>
         <div class="col-sm-7 col-sm-offset-1">
-        	 Autonix Select efectueaza o gama larga de reparatii mecanice intr-un atelier special amenajat, cu personal bine pregatit.
+          Daca ati fost implicat intr-un accident rutier sau aveti o defectiune la masina si este indicat sa o scoateti pe marginea drumului si sa apelati la o firma de tractari - remorcari.
 
-Avem in dotare o hala multifunctionala prevazuta cu elevatoare, scule si aparate speciale pentru diverse reparatii mecanice.
-
-Executam reparatii mecanice si electrice pentru toate tipurile si marcile de autoturisme produse in strainatate dar si pentru cele de productie autohtona.
-
-Servicii de reparatii mecanice
-
-Dotarile tehnice si personalul service-ului nostru permit realizarea de interventii la sistemele de propulsie, de transmisie, de alimentare, de suspensie, de directie si de franare.
-		</div>
+Dupa semnalizarea locului incidentului rutier  sunati-ne cu incredere.  Firma noastra de tractari - remorcari va ajunge in cel mai scurt timp posibil la locul indicat de dumneavoastra, cu o autospeciala de tractari sau remorcari ajutandu-va astfel prin tractarea sau remorcarea  autotvehiculului in service-ul ales de dumneavoastra.
+</div>
       </div>
 
 

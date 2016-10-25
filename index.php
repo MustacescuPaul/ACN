@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <?php include("assets/inc/header.php") ?>
+    <?php include("assets/inc/header.php");
+      ?>
   </head>
   <body>
   	<div class="container">
@@ -22,9 +23,9 @@
               <li class="nav-li active"><a href="index.php">Acasa</a></li>
               <li  class="nav-li"><a href="service.php">Service</a></li>
               <li class="nav-li"><a href="mecanica.php">Mecanica</a></li>
-              <li class="nav-li"><a href="#">Tractari</a></li>
-              <li class="nav-li"><a href="#">Contact</a></li>
-              <li class="nav-li"><a href="#">Vopsitorie</a></li>
+              <li class="nav-li "><a href="tractari.php">Tractari</a></li>
+              <li class="nav-li"><a href="vopsitorie.php">Vopsitorie</a></li>
+              <li class="nav-li"><a href="contact.php">Contact</a></li>
             </ul>
           </div>
         </nav>
@@ -63,7 +64,7 @@
         <h4>Servicii la standarde europene!</h4>
       </div>
        <div class="col-sm-3 col-lg-offset-1">
-          
+
       </div>
     </div>
 
@@ -77,7 +78,7 @@
        <div class="col-sm-4">
         <img src="assets/images/index2.jpg" class="img-rounded" width="300" height="190">
       </div>
-      
+
     </div>
 
     <div id="sub" class="row" style="text-align: center;">
@@ -89,19 +90,19 @@
       </div>
 
        <div class="col-sm-4">
-       
+
         SC Auto Ca Nou SRL ofera in cele mai bune conditii de calitate,
-        promptitudine si profesionalism, servicii de reparatii auto la costuri competitive. Va invitam sa ne faceti o vizita si sa descoperiti ceea ce putem face pentru dumneavoastra. Garantam calitatea lucrarilor, iar clientii multumiti sunt cea mai buna recomandare.Va asteptam! 
+        promptitudine si profesionalism, servicii de reparatii auto la costuri competitive. Va invitam sa ne faceti o vizita si sa descoperiti ceea ce putem face pentru dumneavoastra. Garantam calitatea lucrarilor, iar clientii multumiti sunt cea mai buna recomandare.Va asteptam!
       </div>
        <div class="col-sm-4">
-       
-        Pregatirea personalului este pusa in slujba dumneavoastra, pentru a va oferi cele mai bune servicii, la standard de calitate conform normelor europene; pentru flote auto furnizam servicii complete de reparatii, astfel incat beneficiarul sa se poata concentra pe propria afacere si derularea activitatilor in cele mai bune conditii 
+
+        Pregatirea personalului este pusa in slujba dumneavoastra, pentru a va oferi cele mai bune servicii, la standard de calitate conform normelor europene; pentru flote auto furnizam servicii complete de reparatii, astfel incat beneficiarul sa se poata concentra pe propria afacere si derularea activitatilor in cele mai bune conditii
       </div>
     </div>
 
 </div>
 
-
+<?php  include("bar.php");?>
   </body>
 
 </html>

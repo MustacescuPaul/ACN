@@ -24,9 +24,9 @@
               <li class="nav-li"><a href="index.php">Acasa</a></li>
               <li  class="nav-li active"><a href="service.php">Service</a></li>
               <li class="nav-li"><a href="mecanica.php">Mecanica</a></li>
-              <li class="nav-li"><a href="#">Tractari</a></li>
-              <li class="nav-li"><a href="#">Vopsitorie</a></li>
-              <li class="nav-li"><a href="#">Contact</a></li>
+              <li class="nav-li"><a href="tractari.php">Tractari</a></li>
+              <li class="nav-li"><a href="vopsitorie.php">Vopsitorie</a></li>
+              <li class="nav-li"><a href="contact.php">Contact</a></li>
             </ul>
           </div>
         </nav>
@@ -38,8 +38,8 @@
         <div class="col-sm-4 col-sm-offset-3" style="text-align: center;color:red;">
           STIMATE CLIENT!!!</br>
           ACEASTA NU ESTE DOAR O RECLAMA !!!</br>
-          ESTE O CERTITUDINE,PUTETI SA VERIFICATI!    OFERIM GARANTIE LA  LUCRARE,PROMPTITUDINE SI CORECTITUDINE.  </br>                                                        
-           IN CAZ DE NEMULTUMIRE C-VALOAREA MANOPEREI SE RETURNEAZA!!!                                          
+          ESTE O CERTITUDINE,PUTETI SA VERIFICATI!    OFERIM GARANTIE LA  LUCRARE,PROMPTITUDINE SI CORECTITUDINE.  </br>
+           IN CAZ DE NEMULTUMIRE C-VALOAREA MANOPEREI SE RETURNEAZA!!!
           SUPEROFERTA!!!daca in termen de 5 zile lucratoare ,dupa finalizarea reparatiei,aduceti doi clienti noi,vi se returneaza 20%din pretul manoperei!!!!!
           OFERTA VALABILA DOAR PTR PERSOANE FIZICE!!!
         </div>
@@ -49,7 +49,7 @@
       Schimbari de garnituri de chiuloasa, capac tacheti, baie de ulei, reparatii cutie de viteze pentru tractiune 2×4 sau 4×4, cutie de viteza automata sau pozitionata transversal, schimbari de cabluri ambreiaj, kilometraj, acceleratie; curatire si reparatie turbosuflante, injectoare, supape etc.</br>
       <h4 style="font-size: 20px;font-weight: bolder;">IMPORTANT: REPARAM SI CUTII DE VITEZE AUTOMATE!</h4>
       <h4 style="font-size: 20px;font-weight: bolder;">Sistem de evacuare</h4>
-      Montaj toba finala, toba intermediara sau primara, montaj linie completa cu catalizator, montaj sonda Lambda. 
+      Montaj toba finala, toba intermediara sau primara, montaj linie completa cu catalizator, montaj sonda Lambda.
       <h4 style="font-size: 20px;font-weight: bolder;">Ambreiaj</h4>
       Montare ambreiaj pentru motoare dispuse longitudinal sau transversal, tractiune fata sau spate, montaj cilindru receptor ambreiaj, montaj pompa ambreiaj.
       <h4 style="font-size: 20px;font-weight: bolder;">Sistem franare</h4>
@@ -58,16 +58,16 @@
       Montare amortizoare, capete de bara, bielete de directie, pivoti, brate suspensie, bascule, bucse bascula, bara stabilizatoare, rulmenti cu butuc, tambur, disc.
       <h4 style="font-size: 20px;font-weight: bolder;">Transmisie</h4>
       Montaj axa planetara cu articulatie, numai cap planetara cu manson, arbore cardanic.
-      <h4 style="font-size: 20px;font-weight: bolder;">Sistem alimentare</h4> 
+      <h4 style="font-size: 20px;font-weight: bolder;">Sistem alimentare</h4>
       Montaj pompe combustibil in rezervor sau in exteriorul rezervorului, monaj rezervoare de combustibil.
       Sistem de racire motor
       Inlocuire/reparare/montaj pompa de apa, inlocuire termostat, termocupla ventilator, sonda de temperatura, radiatoare.
-      <h4 style="font-size: 20px;font-weight: bolder;">Elemente de directie</h4> 
+      <h4 style="font-size: 20px;font-weight: bolder;">Elemente de directie</h4>
       Montaj/inlocuire caseta de directie cu sau fara servo, semicaseta de directie, pompa servodirectie.
-      <h4 style="font-size: 20px;font-weight: bolder;">Mecanism de distributie</h4> 
+      <h4 style="font-size: 20px;font-weight: bolder;">Mecanism de distributie</h4>
       Inlocuirea intregului mecanism de distributie sau numai a anumitor componente (curele, role intinzatoare, ghidaje).</br>
 
-      
+
       <div class="row">
             <a href="assets/images/1.jpg" class="col-sm-4">
                 <img src="assets/images/1.jpg" width="200" height="100" >
@@ -83,6 +83,7 @@
 
     </div>
 
+    <?php  include("bar.php");?>
 
   </body>
 
