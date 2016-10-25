@@ -29,6 +29,11 @@
           </div>
         </nav>
       </div>
+      <div class="row" style="text-align: center;">
+        <div id="car" class="col-md-12">
+      Ne puteti contacta completand formularul sau la adresa: str. Soseaua Berceni ,nr. 104, sect.4, Bucuresti
+    </div>
+  </div>
     <div class="row">
       <div id="car" class="col-md-3">
         <form action="contact.php" method="POST" id="form" >
