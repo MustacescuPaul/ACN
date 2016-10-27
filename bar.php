@@ -7,7 +7,7 @@
 
         <footer class="footer " style="background-color: #e7e7e7;">
 
-              <div style="text-align: center"> PaulMustacescu© 2016 for AutoCaNou</div>
+              <div style="text-align: center"> Paul Mustacescu© 2016 for AutoCaNou</div>
 
         </footer>
       </div>

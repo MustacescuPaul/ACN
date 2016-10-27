@@ -14,7 +14,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
+            <a class="navbar-brand" href="index.php"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
             </a>
           </div>
           <div id="navbar5" class="navbar-collapse collapse">
@@ -31,7 +31,7 @@
       </div>
       <div class="row">
         <div class="col-sm-3">
-          <img src="assets/images/222.jpg" width="300" height="200">
+          <img class="img-rounded" src="assets/images/222.jpg" width="300" height="200">
         </div>
         <div class="col-sm-7 col-sm-offset-1">
           Atelierul de vopsitorie, beneficiaza de cabina de vopsit de ultima generatie, dar si de zone speciale de pregatire in vederea vopsirii dotate la cele mai inalte standarde.

@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <?php include("assets/inc/header.php");
+          include("vopsire_es.php");
       ?>
   </head>
   <body>
@@ -15,7 +16,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
+            <a class="navbar-brand" href="index.php"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
             </a>
           </div>
           <div id="navbar5" class="navbar-collapse collapse">
@@ -32,7 +33,7 @@
       </div>
     <div class="row">
       <div id="car" class="col-lg-8">
-        <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="1000"  >
+        <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2000"  >
           <div class="carousel-inner" role="listbox">
             <div class="item active">
               <img src="assets/images/slider1.png" >
@@ -69,7 +70,7 @@
     </div>
 
     <div id="sub" class="row" >
-      <div class="col-sm-4  " >
+      <div class="col-sm-4" >
         <img src="assets/images/index1.jpg" class="img-rounded" width="300" height="190">
       </div>
        <div class="col-sm-4 " >
@@ -91,8 +92,8 @@
 
        <div class="col-sm-4">
 
-        SC Auto Ca Nou SRL ofera in cele mai bune conditii de calitate,
-        promptitudine si profesionalism, servicii de reparatii auto la costuri competitive. Va invitam sa ne faceti o vizita si sa descoperiti ceea ce putem face pentru dumneavoastra. Garantam calitatea lucrarilor, iar clientii multumiti sunt cea mai buna recomandare.Va asteptam!
+        SC AutoCaNou SRL ofera in cele mai bune conditii de calitate,
+        promptitudine si profesionalism, servicii de reparatii auto la costuri competitive. Va invitam sa ne faceti o vizita si sa descoperiti ceea ce putem face pentru dumneavoastra. Garantam calitatea lucrarilor, iar clientii multumiti sunt cea mai buna recomandare.</br>Va asteptam!
       </div>
        <div class="col-sm-4">
 

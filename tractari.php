@@ -14,7 +14,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
+            <a class="navbar-brand" href="index.php"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
             </a>
           </div>
           <div id="navbar5" class="navbar-collapse collapse">

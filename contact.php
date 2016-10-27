@@ -14,7 +14,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
+            <a class="navbar-brand" href="index.php"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
             </a>
           </div>
           <div id="navbar5" class="navbar-collapse collapse">
@@ -31,7 +31,7 @@
       </div>
       <div class="row" style="text-align: center;">
         <div id="car" class="col-md-12">
-      Ne puteti contacta completand formularul sau la adresa: str. Soseaua Berceni ,nr. 104, sect.4, Bucuresti
+      Ne puteti contacta completand formularul sau la adresa: str. Soseaua Berceni ,nr. 104, activ centrala termica, sect.4, Bucuresti
     </div>
   </div>
     <div class="row">
@@ -51,17 +51,16 @@
       </div>
       <div id="text" class="col-md-4 ">
     <div style="font-size: 25px; padding: 10px;"> Informatii de contact </div>
-    S.C. AUTONIX SELECT S.R.L.
+    S.C. AUTOCANOU S.R.L.</br></br>
 
-Reg com. J 40/1782/ 19.02.2010, CUI Ro 265 45842</br>
+    J 40/6303/2015</br>
+    CUI RO 34559008</br></br>
 
-Adresa: str. Soseaua Berceni ,nr. 104, sect.4, Bucuresti</br>
+Adresa: str. Soseaua Berceni ,nr. 104, activ centrala termica, sect.4, Bucuresti</br></br>
 
-Mobil: +4 0372.738.083</br>
+Mobil:</br> - 0774663410</br>
 
-Fix: +4 021.311.23.16</br>
-
-Fax: +4 021.311.23.16</br>
+-0774032075</br>
       </div>
     </div>
       <div class="row" style="text-align: center;">

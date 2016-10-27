@@ -16,7 +16,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
+            <a class="navbar-brand" href="index.php"><img style="	width: 120px;" src="assets/images/logo.png" alt="Dispute Bills">Service Auto
             </a>
           </div>
           <div id="navbar5" class="navbar-collapse collapse">
@@ -33,7 +33,7 @@
       </div>
       <div class="row">
         <div class="col-sm-3">
-          <img src="assets/images/service.jpg" width="500" height="300">
+          <img class="img-rounded" src="assets/images/service.jpg" width="500" height="300">
         </div>
         <div class="col-sm-4 col-sm-offset-3" style="text-align: center;color:red;">
           STIMATE CLIENT!!!</br>
@@ -70,13 +70,13 @@
 
       <div class="row">
             <a href="assets/images/1.jpg" class="col-sm-4">
-                <img src="assets/images/1.jpg" width="200" height="100" >
+                <img class="img-rounded" src="assets/images/1.jpg" width="200" height="100" >
             </a>
              <a href="assets/images/2.jpg" class="col-sm-4">
-                <img src="assets/images/2.jpg" width="200" height="100" >
+                <img class="img-rounded" src="assets/images/2.jpg" width="200" height="100" >
             </a>
              <a href="assets/images/3.jpg" class="col-sm-4">
-                <img src="assets/images/3.jpg" width="200" height="100" >
+                <img class="img-rounded" src="assets/images/3.jpg" width="200" height="100" >
             </a>
         </div>
 
